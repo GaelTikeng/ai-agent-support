@@ -10,7 +10,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold mb-6">Realtime Voice Agent</h1>
       <Conversation />
       <small className="text-xs text-gray-500 my-6">
-        The app requires microphone access to work.
+        The app requires microphone access to work. Please enablle your microphone
       </small>
     </main>
   );
