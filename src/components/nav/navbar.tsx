@@ -4,7 +4,7 @@ import { Star } from 'lucide-react';
 
 export function Navbar() {
   return (
-    <header className="border-b border-gray-100 sticky top-0 bg-white/95 backdrop-blur-sm z-50 w-full">
+    <header className="border-b border-gray-600 sticky top-0 bg-white/95 backdrop-blur-sm z-50 w-full">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <div className="w-8 h-8 bg-gradient-to-br from-[#2835a0] to-[#4c5fd7] rounded-full flex items-center justify-center">
